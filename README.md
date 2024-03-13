@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>NAME: Vineesh.M</h3>
-<h3>REG.NO: 212221230122</h3>
+<h3>NAME: P.Sarveshvaran</h3>
+<h3>REG.NO: 212221230090</h3>
 <h3>EX. NO: 02</h3>
 <h3>DATE:</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
